@@ -1,9 +1,9 @@
 <div align="center">
 
 <h1>
-  <img src="./icon.png" width="32" style="vertical-align: middle; margin-right: 8px;">
+  <img src="./pictures/icon.png" width="32" style="vertical-align: middle; margin-right: 8px;">
   Dark Narwhal Theme
-  <img src="./icon.png" width="32" style="vertical-align: middle; margin-right: 8px;">
+  <img src="./pictures/icon.png" width="32" style="vertical-align: middle; margin-right: 8px;">
 </h1>
 
 <i>A dark blue theme for VSCode inspired by the deep ocean</i>
