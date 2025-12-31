@@ -32,6 +32,11 @@ It uses the default VSCode color syntax, so you don't have to adapt to a new one
 ### Darker Narwhal:
 <img src="./pictures/darker-preview.png" width="600">
 
+### Light Narwhal:
+<img src="./pictures/light-preview.png" width="600">
+
+<i>Not making a Lighter version anytime soon 🤦‍♂️</i>
+
 ---
 
 ## What's New?
