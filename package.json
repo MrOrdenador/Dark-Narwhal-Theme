@@ -2,7 +2,7 @@
   "name": "dark-narwhal",
   "displayName": "Dark Narwhal",
   "description": "A dark blue theme for VSCode inspired by the deep ocean",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "engines": {
     "vscode": "^1.60.0"
   },
