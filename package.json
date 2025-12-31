@@ -1,0 +1,38 @@
+{
+  "name": "dark-narwhal",
+  "displayName": "Dark Narwhal",
+  "description": "A dark blue theme for VSCode inspired by the deep ocean",
+  "version": "1.1.0",
+  "engines": {
+    "vscode": "^1.60.0"
+  },
+  "publisher": "MrOrdenador",
+  "categories": ["Themes"],
+  "icon": "icon.png",
+  "contributes": {
+    "themes": [
+      {
+        "label": "Dark Narwhal",
+        "uiTheme": "vs-dark",
+        "path": "./dark-narwhal-theme.json"
+      },
+      {
+        "label": "Darker Narwhal",
+        "uiTheme": "vs-dark",
+        "path": "./darker-narwhal-theme.json"
+      },
+      {
+        "label": "Light Narwhal",
+        "uiTheme": "vs",
+        "path": "./light-narwhal-theme.json"
+      }
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MrOrdenador/Dark-Narwhal-Theme.git"
+  },
+  "bugs": {
+    "url": "https://github.com/MrOrdenador/Dark-Narwhal-Theme/issues"
+  }
+}
