@@ -8,7 +8,7 @@
   },
   "publisher": "MrOrdenador",
   "categories": ["Themes"],
-  "icon": "icon.png",
+  "icon": "./pictures/icon.png",
   "contributes": {
     "themes": [
       {
